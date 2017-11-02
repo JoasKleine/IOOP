@@ -1,0 +1,4 @@
+﻿  FileRead.cpp
+d:\school\ioop\ioop\week6\fileread\fileread\fileread.cpp(13): warning C4101: 'ch': unreferenced local variable
+  FileRead.vcxproj -> D:\School\IOOP\IOOP\Week6\FileRead\Debug\FileRead.exe
+  FileRead.vcxproj -> D:\School\IOOP\IOOP\Week6\FileRead\Debug\FileRead.pdb (Partial PDB)
